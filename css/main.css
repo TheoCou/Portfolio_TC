@@ -1,0 +1,23 @@
+/* reset */
+html {
+    font-size: 62.5%;
+    background: rgb(0,74,122);
+    background: linear-gradient(90deg, rgba(0,74,122,1) 0%, rgba(4,157,124,1) 84%, rgba(0,0,0,0) 100%);
+}
+
+body {
+    font: 1.6rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+ul,
+ol,
+p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: 100;
+}
